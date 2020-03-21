@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Treemap">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Treemap" clip-path="url(#clip-Treemap)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="152" height="326" transform="translate(61 54)" fill="#650306"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="71" height="158" transform="translate(218 54)" fill="#987519"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="233" height="163" transform="translate(218 217)" fill="#4f3d0d"/>
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="390" height="74" transform="translate(61 385)" fill="#987519"/>
+    <rect id="Rectangle_74" data-name="Rectangle 74" width="152" height="158" transform="translate(294 54)" fill="#244b64"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Tree">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Tree" clip-path="url(#clip-Tree)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="123" height="74" rx="28" transform="translate(190 50)" fill="#96823c"/>
+    <rect id="Rectangle_95" data-name="Rectangle 95" width="102" height="74" rx="28" transform="translate(105 211)" fill="#98553a"/>
+    <rect id="Rectangle_96" data-name="Rectangle 96" width="104" height="74" rx="28" transform="translate(294 211)" fill="#98553a"/>
+    <rect id="Rectangle_97" data-name="Rectangle 97" width="104" height="74" rx="28" transform="translate(223 345)" fill="#244b64"/>
+    <rect id="Rectangle_98" data-name="Rectangle 98" width="104" height="74" rx="28" transform="translate(365 345)" fill="#244b64"/>
+    <path id="Path_50" data-name="Path 50" d="M95.27.312S49.879.121,26.062,21.655,0,86.449,0,86.449" transform="translate(156.23 124.551)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_49" data-name="Path 49" d="M94.488,86.051s1.256-40.944-22.366-62.457S0,0,0,0" transform="translate(251.5 124.949)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_51" data-name="Path 51" d="M0,60S3.087,37.487,20.837,22.487,71,0,71,0" transform="translate(274.5 285.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_52" data-name="Path 52" d="M71,60s4.024-25.519-13.726-40.519S0,0,0,0" transform="translate(345.5 285.5)" fill="none" stroke="#707070" stroke-width="3"/>
+  </g>
+</svg>

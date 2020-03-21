@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Bar_Trend">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Bar_Trend" data-name="Bar + Trend" clip-path="url(#clip-Bar_Trend)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="70" height="320" transform="translate(62 96)" fill="#96823c"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="70" height="81" transform="translate(168 335)" fill="#244b64"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="70" height="234" transform="translate(274 182)" fill="#76351f"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="70" height="146" transform="translate(380 270)" fill="#98553a"/>
+    <path id="Union_3" data-name="Union 3" d="M-2114-968l106,80Zm-106,0-106,80Zm0,0h0Z" transform="translate(2423.5 1230.5)" fill="none" stroke="#75b3be" stroke-width="6"/>
+  </g>
+</svg>

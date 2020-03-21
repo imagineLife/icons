@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#96823c"/>
+      <stop offset="1" stop-color="#9c8948" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#959492"/>
+      <stop offset="1" stop-color="#989898" stop-opacity="0.102"/>
+    </linearGradient>
+    <clipPath id="clip-Pan_Zoom_Area">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Pan_Zoom_Area" data-name="Pan &amp; Zoom Area" clip-path="url(#clip-Pan_Zoom_Area)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <line id="Line_1" data-name="Line 1" y2="195.246" transform="translate(78.5 70.254)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_2" data-name="Line 2" x1="371" transform="translate(76.5 265.5)" fill="none" stroke="#707070" stroke-width="5"/>
+    <path id="Path_36" data-name="Path 36" d="M0-49.135s74.776,68.579,197.473.989S369-47.286,369-47.286V19.857H0Z" transform="translate(78.5 245.5)" fill="url(#linear-gradient)"/>
+    <line id="Line_10" data-name="Line 10" y2="61.439" transform="translate(80.5 399.061)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_11" data-name="Line 11" x1="371" transform="translate(78.5 460.5)" fill="none" stroke="#707070" stroke-width="5"/>
+    <path id="Path_42" data-name="Path 42" d="M0-49.135S103.672-27.3,168.76-24.874c31.277,1.166,38.387-11.16,49.387-15.622,36.686-14.881,79.209,11.185,79.209,11.185L369-47.774V1.666H0Z" transform="translate(80.5 458.834)" fill="url(#linear-gradient-2)"/>
+    <g id="Rectangle_73" data-name="Rectangle 73" transform="translate(229 399)" fill="none" stroke="rgba(190,186,186,0.99)" stroke-width="3" stroke-dasharray="5">
+      <rect width="140" height="81" stroke="none"/>
+      <rect x="1.5" y="1.5" width="137" height="78" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Diverging_Bar">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Diverging_Bar" data-name="Diverging Bar" clip-path="url(#clip-Diverging_Bar)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="35" height="214" transform="translate(271 395) rotate(90)" fill="#96823c"/>
+    <rect id="Rectangle_57" data-name="Rectangle 57" width="35" height="162" transform="translate(271.5 349.5) rotate(90)" fill="#796930"/>
+    <rect id="Rectangle_58" data-name="Rectangle 58" width="35" height="114" transform="translate(389 173) rotate(90)" fill="#244b64"/>
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="35" height="81" transform="translate(271.5 259.5) rotate(90)" fill="#50451f"/>
+    <rect id="Rectangle_91" data-name="Rectangle 91" width="35" height="81" transform="translate(355.5 218.5) rotate(90)" fill="#1b394d"/>
+    <rect id="Rectangle_92" data-name="Rectangle 92" width="35" height="152" transform="translate(427 128) rotate(90)" fill="#326789"/>
+    <rect id="Rectangle_93" data-name="Rectangle 93" width="35" height="181" transform="translate(456 83) rotate(90)" fill="#418ab9"/>
+    <rect id="Rectangle_94" data-name="Rectangle 94" width="35" height="122" transform="translate(271.5 304.5) rotate(90)" fill="#695b29"/>
+  </g>
+</svg>

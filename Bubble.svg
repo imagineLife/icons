@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Bubble">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Bubble" clip-path="url(#clip-Bubble)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <line id="Line_1" data-name="Line 1" y2="361.246" transform="translate(78.5 70.254)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_2" data-name="Line 2" y2="369.197" transform="translate(447.697 431.5) rotate(90)" fill="none" stroke="#707070" stroke-width="5"/>
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="45" cy="45" r="45" transform="translate(117 88)" fill="#96823c"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="22.5" cy="22.5" r="22.5" transform="translate(284 178)" fill="#98553a"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="10" cy="10" r="10" transform="translate(274 116)" fill="#244b64"/>
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="26" cy="26" r="26" transform="translate(135 326)" fill="#244b64"/>
+    <circle id="Ellipse_27" data-name="Ellipse 27" cx="35" cy="35" r="35" transform="translate(354 199)" fill="#775f22"/>
+    <circle id="Ellipse_28" data-name="Ellipse 28" cx="37.5" cy="37.5" r="37.5" transform="translate(220 256)" fill="#4f3d0d"/>
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="22.5" cy="22.5" r="22.5" transform="translate(326 342)" fill="#98553a"/>
+  </g>
+</svg>

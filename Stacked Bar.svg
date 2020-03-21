@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Stacked_Bar">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Stacked_Bar" data-name="Stacked Bar" clip-path="url(#clip-Stacked_Bar)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="512" height="512" rx="45" fill="#082233"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="70" height="81" transform="translate(221 379)" fill="#96823c"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="70" height="81" transform="translate(221 300)" fill="#244b64"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="70" height="128" transform="translate(221 172)" fill="#76351f"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="70" height="146" transform="translate(221 26)" fill="#98553a"/>
+  </g>
+</svg>

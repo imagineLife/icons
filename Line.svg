@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Line">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Line" clip-path="url(#clip-Line)">
+    <g id="Rectangle_18" data-name="Rectangle 18" fill="#082233" stroke="#707070" stroke-width="1">
+      <rect width="512" height="512" rx="45" stroke="none"/>
+      <rect x="0.5" y="0.5" width="511" height="511" rx="44.5" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="361.246" transform="translate(78.5 70.254)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_2" data-name="Line 2" y2="369.197" transform="translate(447.697 431.5) rotate(90)" fill="none" stroke="#707070" stroke-width="5"/>
+    <path id="Union_4" data-name="Union 4" d="M-3344-865l96,136Zm168-103-72,232Zm-168,103-74,110Zm-146,0,72,110Z" transform="translate(3600.5 1061.5)" fill="#75b3be"/>
+    <path id="Path_38" data-name="Path 38" d="M0,172l50.332,83.974,96.041-93.011H300.3L331.688,54.649" transform="translate(103.5 98.5)" fill="none" stroke="#98553a" stroke-width="8"/>
+  </g>
+</svg>
